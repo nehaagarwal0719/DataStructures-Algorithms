@@ -1,0 +1,2 @@
+1) Simple Binary Search
+2) Sqrt function
