@@ -4,4 +4,4 @@ Hackerrank
 
 2)Palindrome
 
-3) Subarrays sum +ve or -ve
+3) Subarrays sum +ve or -ve **
