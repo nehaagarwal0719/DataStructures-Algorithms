@@ -8,8 +8,3 @@ Arrays -
 3) Pivot index
 
 
-Hackerrank
-
-1) Strings Introduction
-
-2)Palindrome
