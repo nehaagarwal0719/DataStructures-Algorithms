@@ -1,1 +1,7 @@
+Hackerrank
+
+1) Strings Introduction
+
+2)Palindrome
+
 3) Subarrays sum +ve or -ve
