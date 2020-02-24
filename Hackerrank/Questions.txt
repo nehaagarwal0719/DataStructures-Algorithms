@@ -9,3 +9,5 @@ Hackerrank
 4) PhoneBook using Maps
 
 5) Java 2D Array ( HourGlass Question)
+
+6) Inheritance
