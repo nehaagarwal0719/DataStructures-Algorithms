@@ -11,3 +11,5 @@ Hackerrank
 5) Java 2D Array ( HourGlass Question)
 
 6) Inheritance
+
+7) Given a string, of length  that is indexed from  to , print its even-indexed and odd-indexed characters as  space-separated strings on a single line (see the Sample below for more detail).
