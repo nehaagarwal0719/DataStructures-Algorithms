@@ -13,3 +13,5 @@ Hackerrank
 6) Inheritance
 
 7) Given a string, of length  that is indexed from  to , print its even-indexed and odd-indexed characters as  space-separated strings on a single line (see the Sample below for more detail).
+
+8) Array List - You are given  lines. In each line there are zero or more integers. You need to answer a few queries where you need to tell the number located in  position of  line.
