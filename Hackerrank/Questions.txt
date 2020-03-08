@@ -30,3 +30,6 @@ Hackerrank
 
 11) Java List
 
+12) Java End of file
+
+12) Static Iniializer Block ( READ MORE ABOUT IT)
