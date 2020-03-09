@@ -26,12 +26,12 @@ Hackerrank
         many instances of each type is present in the ArrayList. The code prints three integers, the number of instance of 
         Student class, the number of instance of Rockstar class, the number of instance of Hacker class.
         
-10) instanceof operator
+10) Java List
 
-11) Java List
+11) Java Array List
 
 12) Java End of file
 
-12) Static Iniializer Block ( READ MORE ABOUT IT)
+13) Static Iniializer Block ( READ MORE ABOUT IT)
 
-##13) Comapre two linked lists
+##14) Comapre two linked lists
