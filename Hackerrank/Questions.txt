@@ -33,3 +33,5 @@ Hackerrank
 12) Java End of file
 
 12) Static Iniializer Block ( READ MORE ABOUT IT)
+
+##13) Comapre two linked lists
