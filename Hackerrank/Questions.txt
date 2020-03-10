@@ -35,3 +35,9 @@ Hackerrank
 13) Static Iniializer Block ( READ MORE ABOUT IT)
 
 ##14) Comapre two linked lists
+
+#15) Perorder tree traversal
+
+16)  Post Order tree traversal
+
+17) In order tree traversal
