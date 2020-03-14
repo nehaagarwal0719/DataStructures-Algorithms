@@ -41,3 +41,9 @@ Hackerrank
 16)  Post Order tree traversal
 
 17) In order tree traversal
+
+18) reverse an array without using another array
+
+19) Binary search tree insertion 
+
+
