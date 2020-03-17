@@ -46,4 +46,10 @@ Hackerrank
 
 19) Binary search tree insertion 
 
+20) Height of Binary tree
+
+#21) Java Subarray sum -ve
+
+22) Anagrams
+
 
