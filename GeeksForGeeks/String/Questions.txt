@@ -9,7 +9,4 @@
    so, maximum possible extra amount =  (59 - 56 ) = 3
    
 6) Sort string
-
-   
-
-   
+7) Minimum changes to make all substrings distinct
