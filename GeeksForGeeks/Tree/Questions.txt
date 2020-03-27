@@ -12,3 +12,9 @@
 
 7) preorder traversal
 
+8) count non leaf nodes
+
+9) mirror of a tree
+
+10) get level difference
+
