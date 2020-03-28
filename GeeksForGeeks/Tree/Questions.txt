@@ -18,3 +18,7 @@
 
 10) get level difference
 
+11) k distance from the root
+
+## 12) min depth 
+
