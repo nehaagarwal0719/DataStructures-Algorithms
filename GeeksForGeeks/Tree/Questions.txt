@@ -20,5 +20,5 @@
 
 11) k distance from the root
 
-## 12) min depth 
+# 12) min depth 
 
