@@ -35,3 +35,20 @@
 12) Rock Paper Scissors
 
 13) Remove all duplicates from a given string.
+
+14) Find largest word in dictionary
+    Input : dict = {"ale", "apple", "monkey", "plea"}   
+        str = "abpcplea"  
+    Output : app
+
+15) The first line of input contains an integer T denoting the number of test cases . Next line of input contains a positive  
+	number N denoting the number of pens Kiran buys for Akash and the next line of input contains the string sequence of N pen colours-R for 'Red' and 'G' for 'green'.    
+	Example:
+	Input :
+	1
+	5
+	RGRGR
+	Output:
+	2
+
+16) 
