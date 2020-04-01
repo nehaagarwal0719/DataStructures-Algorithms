@@ -13,3 +13,6 @@
 # 7) insert at beg and end (rem to take temp while traversing for insertion in end to prevent null pointer exception)
 
 8) nth node
+
+9) Given a Matrix mat of N*N size, the task is to complete the function constructLinkedMatrix(), that constructs a 2D linked 
+   list representation of the given matrix.
