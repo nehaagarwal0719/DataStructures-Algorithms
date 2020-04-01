@@ -1,3 +1,5 @@
 1) count the nodes
 2) #Get the middle node
 3) Delete Alternate nodes
+4) length of the linked list is even or odd
+5) Identical Linked Lists
