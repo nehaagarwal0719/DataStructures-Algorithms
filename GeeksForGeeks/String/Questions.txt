@@ -23,7 +23,7 @@
 9) Given a string of digits 0 – 9. The task is to count number of substrings which when convert into integer form an even    
    number.
 
-///START
+
 10) "0" stands for "no goal".
 	"1" stands for "goal".
 	"2" stands for a foul which gives Ishaan a penalty.
