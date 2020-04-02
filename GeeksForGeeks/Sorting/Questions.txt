@@ -1,0 +1,2 @@
+1) check if array is sorted
+2) second largest element
