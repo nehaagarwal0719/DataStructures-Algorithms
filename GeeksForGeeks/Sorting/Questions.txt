@@ -1,2 +1,8 @@
-1) check if array is sorted
-2) second largest element
+1) check if array is sorted.
+
+2) second largest element.
+
+3) Given an array of N distinct elements, the task is to find all elements in array except two greatest elements.
+
+4) Binary Array Sorting.Given a binary array A[] of size N. The task is to arrange array in increasing order.
+
