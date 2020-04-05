@@ -28,3 +28,5 @@
 
 # 15) Inorder Traversal and BST ( don't forget to put equal to)
 
+16) Given a Binary Search Tree (BST) and a range, print all the numbers in the BST that lie in the given range l-h(inclusive) in non-decreasing order. If no such element exists, an empty line will be printed.
+Note: Element greater than or equal to root go to the right side.
