@@ -22,3 +22,9 @@
 
 # 12) min depth 
 
+13) sum of leaf nodes in BST
+
+14) search node in BST
+
+# 15) Inorder Traversal and BST ( don't forget to put equal to)
+
