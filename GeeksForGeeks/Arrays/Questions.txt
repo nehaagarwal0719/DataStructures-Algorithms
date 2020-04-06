@@ -9,3 +9,7 @@
 ## 5) Find the element that appears once in sorted array
 
 6) binary search
+
+7) Find minimum and maximum element in an array
+
+8) Given an array of penalties P, an array of car numbers C, and also the date D. The task is to find the total fine which will be collected on the given date. Fine is collected from odd-numbered cars on even dates and vice versa.
