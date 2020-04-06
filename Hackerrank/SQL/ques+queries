@@ -18,3 +18,29 @@
    characters. Your result cannot contain duplicates. 
 
    SELECT DISTINCT city FROM station WHERE city REGEXP ".*[aeiou]$" AND city REGEXP  "^[aeiou].*";    
+
+
+5) Query the Name of any student in STUDENTS who scored higher than  Marks. Order your output by the last three characters of 
+   each name. If two or more students both have names ending in the same last three characters (i.e.: Bobby, Robby, etc.), secondary sort them by ascending ID. 
+
+
+  SELECT NAME FROM STUDENTS WHERE MARKS > 75 ORDER BY RIGHT(NAME, 3), ID ASC;   
+
+
+6)Write a query that prints a list of employee names (i.e.: the name attribute) for employees in Employee having a salary  
+  greater than  per month who have been employees for less than  months. Sort your result by ascending employee_id.
+
+   SELECT name from Employee WHERE salary>2000 AND months<10 ORDER BY employee_id ASC;  
+
+7) Query all columns for all American cities in CITY with populations larger than 100000. The CountryCode for America is USA.
+
+  SELECT * FROM CITY WHERE COUNTRYCODE = 'USA' AND POPULATION>100000;   
+
+8) Query the average population for all cities in CITY, rounded down to the nearest intege
+
+  SELECT ROUND(AVG(POPULATION)) FROM CITY;  
+
+
+9) Query the sum of the populations for all Japanese cities in CITY. The COUNTRYCODE for Japan is JPN.
+
+  SELECT SUM(POPULATION) FROM CITY WHERE COUNTRYCODE="JPN";  

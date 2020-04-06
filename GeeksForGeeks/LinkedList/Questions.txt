@@ -16,3 +16,8 @@
 
 9) Given a Matrix mat of N*N size, the task is to complete the function constructLinkedMatrix(), that constructs a 2D linked 
    list representation of the given matrix.
+
+10) Given a singly linked list and a key, count number of occurrences of given key in linked list. For example, if given 
+    linked list is 1->2->1->2->1->3->1 and given key is 1, then output should be 4.
+
+11) Delete the middle element of the linked list.    
