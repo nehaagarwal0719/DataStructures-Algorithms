@@ -36,11 +36,39 @@
 
   SELECT * FROM CITY WHERE COUNTRYCODE = 'USA' AND POPULATION>100000;   
 
-8) Query the average population for all cities in CITY, rounded down to the nearest intege
+8)Query the total population of all cities in CITY where District is California.
+
+ SELECT SUM(POPULATION) FROM CITY WHERE DISTRICT= "California";
+
+
+9) Query the average population for all cities in CITY, rounded down to the nearest intege
 
   SELECT ROUND(AVG(POPULATION)) FROM CITY;  
 
 
-9) Query the sum of the populations for all Japanese cities in CITY. The COUNTRYCODE for Japan is JPN.
+10) Query the sum of the populations for all Japanese cities in CITY. The COUNTRYCODE for Japan is JPN.
 
   SELECT SUM(POPULATION) FROM CITY WHERE COUNTRYCODE="JPN";  
+
+
+11)Query the list of CITY names from STATION that do not start with vowels. Your result cannot contain duplicates.
+
+SELECT DISTINCT CITY FROM STATION WHERE CITY REGEXP  "^[^aeiou]";  
+
+Putting a ^ inside the closed bracket means something completely different than putting it outside the brackets. Putting it inside the brackets makes it match all characters EXCEPT the ones inside the bracket.
+
+
+12) Query the list of CITY names from STATION that do not end with vowels. Your result cannot contain duplicates. 
+
+ SELECT DISTINCT CITY FROM STATION WHERE CITY REGEXP '[^aiueo]$';
+
+
+ 13) Query the difference between the maximum and minimum populations in CITY.
+
+   SELECT MAX(POPULATION) - MIN(POPULATION) FROM CITY;
+
+
+14) Samantha was tasked with calculating the average monthly salaries for all employees in the EMPLOYEES table, but did not
+ realize her keyboard's  key was broken until after completing the calculation. She wants your help finding the difference between her miscalculation (using salaries with any zeroes removed), and the actual average salary.
+
+   SELECT CEIL(AVG(Salary)-AVG(REPLACE(Salary,'0',''))) FROM EMPLOYEES;   
