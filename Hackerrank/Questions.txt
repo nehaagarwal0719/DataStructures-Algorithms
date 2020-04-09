@@ -52,4 +52,6 @@ Hackerrank
 
 22) Anagrams
 
+23) Left rotation of an array
+
 
