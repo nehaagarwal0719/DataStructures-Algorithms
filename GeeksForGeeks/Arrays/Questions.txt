@@ -13,3 +13,6 @@
 7) Find minimum and maximum element in an array
 
 8) Given an array of penalties P, an array of car numbers C, and also the date D. The task is to find the total fine which will be collected on the given date. Fine is collected from odd-numbered cars on even dates and vice versa.
+
+9) You are given a sorted array containing only numbers 0 and 1. Find the transition point efficiently. Transition point is a point where "0" ends and "1" begins.
+Note that, if there is no "1" exists, print -1.
