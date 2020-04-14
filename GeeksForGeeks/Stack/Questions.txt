@@ -1,3 +1,8 @@
 1) Implement Stack using Linked List
 
 2) Implement stack using array
+
+3) Immediate Smaller Element. Given an integer array of size N. For each element in the array, check whether the right  adjacent element (on the next immediate position) of the array is smaller. If next element is smaller, print that element. If not, then print -1.
+
+Don't print but append in a string to reduce time complexity.
+
