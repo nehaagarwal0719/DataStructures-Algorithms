@@ -6,3 +6,6 @@
 
 4) Binary Array Sorting.Given a binary array A[] of size N. The task is to arrange array in increasing order.
 
+5) insertion sort 
+
+6) 

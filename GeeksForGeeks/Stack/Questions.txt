@@ -11,3 +11,6 @@ Don't print but append in a string to reduce time complexity.
 
 5) reverse a string using stack
 
+## 6) delete middle of linked list
+
+7) Sort a stack (iterative)
