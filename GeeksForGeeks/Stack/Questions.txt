@@ -6,3 +6,8 @@
 
 Don't print but append in a string to reduce time complexity.
 
+
+4) stack operations
+
+5) reverse a string using stack
+
