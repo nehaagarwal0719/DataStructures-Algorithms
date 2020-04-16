@@ -30,3 +30,8 @@
 
 16) Given a Binary Search Tree (BST) and a range, print all the numbers in the BST that lie in the given range l-h(inclusive) in non-decreasing order. If no such element exists, an empty line will be printed.
 Note: Element greater than or equal to root go to the right side.
+
+
+## 17) Level Order Traversal to BST
+
+## 18) min value in BST
