@@ -14,3 +14,7 @@ Don't print but append in a string to reduce time complexity.
 ## 6) delete middle of linked list
 
 7) Sort a stack (iterative)
+
+8) Bracket Number Given an expression exp of length n consisting of some brackets. The task is to print the bracket numbers when the expression is being parsed.
+
+## 9) Your task is to implement  2 stacks in one array efficiently 
