@@ -51,4 +51,4 @@
 	Output:
 	2
 
-16) 
+16) Given a string check if it is Pangram or not. A pangram is a sentence containing every letter in the English Alphabet.
