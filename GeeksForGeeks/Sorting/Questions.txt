@@ -8,4 +8,4 @@
 
 5) insertion sort 
 
-6) 
+6) Binary Array Sorting

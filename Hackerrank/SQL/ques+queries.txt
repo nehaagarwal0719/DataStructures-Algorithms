@@ -72,3 +72,22 @@ Putting a ^ inside the closed bracket means something completely different than 
  realize her keyboard's  key was broken until after completing the calculation. She wants your help finding the difference between her miscalculation (using salaries with any zeroes removed), and the actual average salary.
 
    SELECT CEIL(AVG(Salary)-AVG(REPLACE(Salary,'0',''))) FROM EMPLOYEES;   
+
+
+## 15) Given the CITY and COUNTRY tables, query the sum of the populations of all cities where the CONTINENT is 'Asia'.
+       Note: CITY.CountryCode and COUNTRY.Code are matching key columns.
+
+
+	   SELECT SUM(CITY.POPULATION) 
+	   FROM CITY, COUNTRY
+	   WHERE CITY.COUNTRYCODE = COUNTRY.CODE AND COUNTRY.CONTINENT = 'Asia';   
+
+16) Given the CITY and COUNTRY tables, query the names of all cities where the CONTINENT is 'Africa'.
+Note: CITY.CountryCode and COUNTRY.Code are matching key columns.
+
+
+    SELECT CITY.NAME FROM CITY,COUNTRY WHERE COUNTRY.CODE=CITY.COUNTRYCODE AND COUNTRY.CONTINENT='Africa'; 
+
+17) Given the CITY and COUNTRY tables, query the names of all the continents (COUNTRY.Continent) and their respective average city populations (CITY.Population) rounded down to the nearest integer.
+    
+SELECT COUNTRY.CONTINENT, FLOOR(AVG(CITY.POPULATION)) FROM CITY, COUNTRY WHERE  CITY.COUNTRYCODE=COUNTRY.CODE GROUP BY COUNTRY.CONTINENT;
