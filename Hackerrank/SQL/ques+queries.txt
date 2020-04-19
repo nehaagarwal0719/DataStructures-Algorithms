@@ -89,5 +89,50 @@ Note: CITY.CountryCode and COUNTRY.Code are matching key columns.
     SELECT CITY.NAME FROM CITY,COUNTRY WHERE COUNTRY.CODE=CITY.COUNTRYCODE AND COUNTRY.CONTINENT='Africa'; 
 
 17) Given the CITY and COUNTRY tables, query the names of all the continents (COUNTRY.Continent) and their respective average city populations (CITY.Population) rounded down to the nearest integer.
-    
+
 SELECT COUNTRY.CONTINENT, FLOOR(AVG(CITY.POPULATION)) FROM CITY, COUNTRY WHERE  CITY.COUNTRYCODE=COUNTRY.CODE GROUP BY COUNTRY.CONTINENT;
+
+
+18) Query the sum of Northern Latitudes (LAT_N) from STATION having values greater than  and less than . Truncate your answer to  decimal places.
+
+  SELECT TRUNCATE(SUM(LAT_N),4) FROM STATION WHERE LAT_N> 38.7880 AND LAT_N<137.2345;
+
+
+
+## 19) Query the two cities in STATION with the shortest and longest CITY names, as well as their respective lengths (i.e.: 
+	   number of characters in the name). If there is more than one smallest or largest city, choose the one that comes first when ordered alphabetically.
+
+  SELECT CITY,LENGTH(CITY) FROM STATION ORDER BY LENGTH(CITY) ASC,CITY ASC LIMIT 1;
+
+   SELECT CITY,LENGTH(CITY) FROM STATION ORDER BY LENGTH(CITY) DESC,CITY DESC LIMIT 1;  
+
+
+## (Dnt use == but =) 
+20) Query a list of CITY names from STATION with even ID numbers only. You may print the results in any order, but must 
+    exclude duplicates from your answer.
+
+   SELECT DISTINCT CITY FROM STATION WHERE ID%2=0;   
+
+##(REMEMBER OR)
+21)Query the list of CITY names from STATION that either do not start with vowels or do not end with vowels. Your result 
+   cannot contain duplicates.
+
+   SELECT DISTINCT CITY FROM STATION WHERE CITY REGEXP '[^aiueo]$' OR CITY REGEXP "^[^aeiou]";   
+
+
+22) Query the list of CITY names from STATION that do not start with vowels and do not end with vowels. Your result cannot 
+    contain duplicates. 
+
+   SELECT DISTINCT CITY FROM STATION WHERE CITY REGEXP '[^aiueo]$' AND CITY REGEXP "^[^aeiou]";     
+
+
+23) Query the Western Longitude (LONG_W) for the largest Northern Latitude (LAT_N) in STATION that is less than . Round
+    your  answer to  decimal places.
+
+    SELECT ROUND(LONG_W,4) FROM STATION WHERE  LAT_N=(SELECT MAX(LAT_N) FROM STATION WHERE LAT_N<137.2345);   
+
+24) Query the following two values from the STATION table:
+    The sum of all values in LAT_N rounded to a scale of  decimal places.
+    The sum of all values in LONG_W rounded to a scale of  decimal places.
+
+    SELECT ROUND(SUM(LAT_N),2), ROUND(SUM(LONG_W),2) FROM STATION;     
