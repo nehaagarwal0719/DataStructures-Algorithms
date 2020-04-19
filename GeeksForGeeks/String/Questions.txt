@@ -52,3 +52,9 @@
 	2
 
 16) Given a string check if it is Pangram or not. A pangram is a sentence containing every letter in the English Alphabet.
+
+17) Given a string str and another string patt. Find the character in patt that is present at the minimum index in str. If no character of patt is present in str then print ‘No character present’.
+
+18) Anagrams in java
+
+
