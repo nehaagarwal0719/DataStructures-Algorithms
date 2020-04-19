@@ -57,4 +57,7 @@
 
 18) Anagrams in java
 
+## 19) Remove “b” and “ac” from a given string
+
+## 20) Given a String of length S, reverse the whole string without reversing the individual words in it. Words are separated by dots.
 
