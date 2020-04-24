@@ -61,3 +61,8 @@
 
 ## 20) Given a String of length S, reverse the whole string without reversing the individual words in it. Words are separated by dots.
 
+21) Given three strings ‘str’, ‘oldW’ and ‘newW’. The task is find all occurrences of the word ‘oldW’ and replace then with word ‘newW’.
+
+22) Check if palindromic ignoring spaces
+   s=s.replaceAll("\\s", "");
+
