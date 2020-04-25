@@ -33,3 +33,5 @@ Determine the tastiness level of the square which his sister gets.
 
 
 16) Check if an array is sorted
+
+17)Given an array of integers, and an integer  ‘K’ , find the count of pairs of elements in the array whose sum is equal to 'K'.
