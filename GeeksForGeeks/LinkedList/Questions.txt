@@ -29,3 +29,13 @@
 14) Count Pairs whose sum is equal to X
 
 15) Remove duplicates from an unsorted linked list
+
+16) Deleting a node without head pointer but can't be the last node
+
+17) Reverse a linked list
+
+18) Nth node from end of linked list
+
+19) Intersection Point in Y Shapped Linked Lists
+
+20) Reverse a Linked List in groups of given size.
