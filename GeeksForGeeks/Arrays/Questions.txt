@@ -45,3 +45,7 @@ Determine the tastiness level of the square which his sister gets.
 Given an array H representing heights of buildings. You have to count the buildings which will see the sunrise (Assume : Sun rise on the side of array starting point).
 
 ## 23) Given two sorted arrays. There is only 1 difference between the arrays. First array has one element extra added in between. Find the index of the extra element
+
+24) peak element- Given an array A of N integers. The task is to find a peak element in it in O( log N ) .
+An array element is peak if it is not smaller than its neighbours. For corner elements, we need to consider only one neighbour.
+Note: There may be multiple peak element possible, in that case you may return any valid index.
