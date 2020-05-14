@@ -38,3 +38,10 @@ Determine the tastiness level of the square which his sister gets.
 
 
 ## 18) Max Sum Subarray of size K (Sliding window method)
+
+21)Given an array of integers (A[])  and a number x, find the smallest subarray with sum greater than the given value.
+
+22) Monu lives in a society which is having high rise buildings. This is the time of sunrise and monu wants see the buildings receiving the sunlight. Help him in counting the number of buildings recieving the sunlight.
+Given an array H representing heights of buildings. You have to count the buildings which will see the sunrise (Assume : Sun rise on the side of array starting point).
+
+## 23) Given two sorted arrays. There is only 1 difference between the arrays. First array has one element extra added in between. Find the index of the extra element
