@@ -38,4 +38,5 @@ Note: Element greater than or equal to root go to the right side.
 
 ## 19) insert in BST
 
+## 20) same tree ( since it is boolean you have to use && in between)
 

@@ -60,3 +60,8 @@ Note: There may be multiple peak element possible, in that case you may return a
 Output:
 2 1
 3 2
+
+
+26) Given an array of size N consisting of only 0's and 1's ,which is sorted in such a manner that all the 1's are placed first and then they are followed by all the 0's. You have to find  the count of all the 0's.
+
+27) You are given an array A of size N. Replace every element with the next greatest element (greatest element on its right side) in the array. Also, since there is no element next to the last element, replace it with -1.
