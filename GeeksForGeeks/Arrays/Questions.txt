@@ -65,3 +65,8 @@ Output:
 26) Given an array of size N consisting of only 0's and 1's ,which is sorted in such a manner that all the 1's are placed first and then they are followed by all the 0's. You have to find  the count of all the 0's.
 
 27) You are given an array A of size N. Replace every element with the next greatest element (greatest element on its right side) in the array. Also, since there is no element next to the last element, replace it with -1.
+
+28) Given an array with all elements greater than or equal to zero. Return the maximum product of two numbers possible.
+
+29) n a given array A[] find the maximum value of (A[i] – i) - (A[j] – j) where i is not equal to j. 
+    i and j vary from 0 to n-1 and N is size of input array A[].  Value of N is always greater than 1.
