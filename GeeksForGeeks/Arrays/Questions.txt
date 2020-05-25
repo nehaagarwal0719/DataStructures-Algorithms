@@ -70,3 +70,7 @@ Output:
 
 29) n a given array A[] find the maximum value of (A[i] – i) - (A[j] – j) where i is not equal to j. 
     i and j vary from 0 to n-1 and N is size of input array A[].  Value of N is always greater than 1.
+
+30) Union of 2 sorted arrays
+
+31) Given an array of positive integers. Check whether there are two numbers present with given product.    

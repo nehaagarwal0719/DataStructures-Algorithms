@@ -73,3 +73,21 @@
 25) Given two strings, the task is to check whether these strings are meta strings or not. Meta strings are the strings which can be made equal by exactly one swap in any of the strings. Equal string are not considered here as Meta strings.
 
 ## 26) Given a binary string S. The task is to count the number of substrings that starts and end with 1. For example, if the input string is “00100101”, then there are three substrings “1001”, “100101” and “101”.
+
+27) given an array of words, print the count of all anagrams together in sorted order (increasing order of counts).
+For example, if the given array is {“cat”, “dog”, “tac”, “god”, “act”}, then grouped anagrams are “(dog, god) (cat, tac, act)”. So the output will be 2 3.
+
+## 28) Given a string, your task is to reverse the vowels of string.
+
+29) Non Repeating Character
+
+//
+char ans=s[0];
+        for(int i=1;i<n;i++)
+        ans=ans^s[i];
+       
+       if(ans==0)
+       cout<<-1<<"\n";
+       else
+        cout<<ans<<"\n"
+        //shortcut
