@@ -73,4 +73,17 @@ Output:
 
 30) Union of 2 sorted arrays
 
-31) Given an array of positive integers. Check whether there are two numbers present with given product.    
+31) Given an array of positive integers. Check whether there are two numbers present with given product.
+
+32) Given a sorted array consisting 0’s and 1’s. The task is to find the index of first ‘1’ in the given array.    
+
+33) Given two sorted arrays. There is only 1 difference between the arrays. First array has one element extra added in between. Find the index of the extra element.
+
+# 34) Given an array A[] of N positive integers which can contain integers from 1 to N where elements can be repeated or can be absent from the array. Your task is to count frequency of all elements from 1 to N.
+
+35) Rahul is a geek he loves to play with array. He was very much bored so he asked you to solve array by selecting a pair of adjacent integers and remove the larger one of these two. This decreases the array size by 1. Cost of this operation will be equal to the smaller of them. Your task is to find out minimum sum of costs of operations needed to convert the array into a single element.
+
+36) Given an array, return the count of number of contiguous subarrays for which the sum and product of elements are equal.
+
+37) Given an array containing positive and negative numbers. The array represents checkpoints from one end to other end of street. Positive and negative values represent amount of energy at that checkpoint. Positive numbers increase the energy and negative numbers decrease. Find the minimum initial energy required to cross the street such that Energy level never becomes 0 or less than 0.
+

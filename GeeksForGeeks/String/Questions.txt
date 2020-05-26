@@ -85,7 +85,7 @@ For example, if the given array is {“cat”, “dog”, “tac”, “god”, 
 
 30) Given a string str and another string patt. Find the character in patt that is present at the minimum index in str. If no character of patt is present in str then print ‘No character present’.
 
-31) Given an array of names (consisting of lowercase characters) of candidates in an election. A candidate name in array represents a vote casted to the candidate. Print the name of candidate that received Max votes. If there is tie, print lexicographically smaller name.
+## 31) Given an array of names (consisting of lowercase characters) of candidates in an election. A candidate name in array represents a vote casted to the candidate. Print the name of candidate that received Max votes. If there is tie, print lexicographically smaller name.
 
 32) Given a string without spaces, a character, and a count, the task is to print the string after the specified character has occurred count number of times.
 Print “Empty string” incase of any unsatisfying conditions.
@@ -106,3 +106,4 @@ If given count is 0, then given character doesn’t matter, just print the whole
 
 https://practice.geeksforgeeks.org/problems/decode-the-pattern/0
 
+36) Given a sequence of strings, the task is to find out the second most repeated (or frequent) string in the given sequence.
