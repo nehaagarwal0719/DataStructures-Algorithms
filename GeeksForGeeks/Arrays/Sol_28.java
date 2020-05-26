@@ -18,6 +18,7 @@ class GFG {
 		 for(j=0;j<n;j++){
 		     a[j]=sc.nextInt();
 		 } 
+		 
 		 int l=a[0],s=Integer.MIN_VALUE;
 		 int ln=a[0],sn=-Integer.MIN_VALUE;
 		 

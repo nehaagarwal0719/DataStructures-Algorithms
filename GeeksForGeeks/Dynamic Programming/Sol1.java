@@ -32,7 +32,7 @@ class Kadane
 // if negative nos
 import java.io.*; 
   
-class GFG { 
+class GFG {  
   
     static int maxSubArraySum(int a[], int size) 
     { 

@@ -37,3 +37,14 @@ class GFG {
 		}
 	}
 }
+
+//
+char ans=s[0];
+        for(int i=1;i<n;i++)
+        ans=ans^s[i];
+       
+       if(ans==0)
+       cout<<-1<<"\n";
+       else
+        cout<<ans<<"\n"
+        //shortcut

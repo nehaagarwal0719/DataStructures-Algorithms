@@ -60,6 +60,8 @@
 ## 19) Remove “b” and “ac” from a given string
 
 ## 20) Given a String of length S, reverse the whole string without reversing the individual words in it. Words are separated by dots.
+(Use split("\\.") instead of just split(".")
+The reason being that split function takes a regular expression in which dot means 'any' character. If we wish to split the string at a literal '.', we must specify it with "\\".)
 
 21) Given three strings ‘str’, ‘oldW’ and ‘newW’. The task is find all occurrences of the word ‘oldW’ and replace then with word ‘newW’.
 
@@ -81,13 +83,26 @@ For example, if the given array is {“cat”, “dog”, “tac”, “god”, 
 
 29) Non Repeating Character
 
-//
-char ans=s[0];
-        for(int i=1;i<n;i++)
-        ans=ans^s[i];
-       
-       if(ans==0)
-       cout<<-1<<"\n";
-       else
-        cout<<ans<<"\n"
-        //shortcut
+30) Given a string str and another string patt. Find the character in patt that is present at the minimum index in str. If no character of patt is present in str then print ‘No character present’.
+
+31) Given an array of names (consisting of lowercase characters) of candidates in an election. A candidate name in array represents a vote casted to the candidate. Print the name of candidate that received Max votes. If there is tie, print lexicographically smaller name.
+
+32) Given a string without spaces, a character, and a count, the task is to print the string after the specified character has occurred count number of times.
+Print “Empty string” incase of any unsatisfying conditions.
+(Given character is not present, or present but less than given count, or given count completes on last index).
+If given count is 0, then given character doesn’t matter, just print the whole string.
+
+ 33) Given a string consisting of spaces,\t,\n and lower case  alphabets.Your task is to count the number of words where spaces,\t and \n work as separators.
+
+ 34) Given an array of names (consisting of lowercase characters) of candidates in an election. A candidate name in array represents a vote casted to the candidate. Print the name of candidate that received Max votes. If there is tie, print lexicographically smaller name.
+
+### 35)Given a pattern as below and an integer n your task is to decode it and print nth row of it. The pattern follows as :
+1
+11
+21
+1211
+111221
+......
+
+https://practice.geeksforgeeks.org/problems/decode-the-pattern/0
+
