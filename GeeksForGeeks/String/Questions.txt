@@ -107,3 +107,5 @@ If given count is 0, then given character doesn’t matter, just print the whole
 https://practice.geeksforgeeks.org/problems/decode-the-pattern/0
 
 36) Given a sequence of strings, the task is to find out the second most repeated (or frequent) string in the given sequence.
+
+37) You are given a string that is made up of words separated by spaces. Your task is to find the word with highest frequency, i.e. it appears maximum times in the sentence. If multiple words have maximum frequency, then print the word that occurs first in the sentence.
