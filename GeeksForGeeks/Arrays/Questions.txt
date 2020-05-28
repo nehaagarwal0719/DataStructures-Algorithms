@@ -87,3 +87,35 @@ Output:
 
 37) Given an array containing positive and negative numbers. The array represents checkpoints from one end to other end of street. Positive and negative values represent amount of energy at that checkpoint. Positive numbers increase the energy and negative numbers decrease. Find the minimum initial energy required to cross the street such that Energy level never becomes 0 or less than 0.
 
+38) Given an array of n integers(duplicates allowed). Print “Yes” if it is a set of contiguous integers else print “No”.
+
+39) Ishaan is given N integers in the form of an array A. He is asked to select all of these integers in any order. For selecting every integer he gets some points. He needs to maximize those points.
+For every integer he selects, he gets points equal to the value of :
+the selected integer * number of integers selected before the current integer (Refer example for explanation)
+Help him find the maximum points he can get provided he can select every integer exactly 1 time.
+
+40) Given an unsorted array. Your task is to find the maximum difference between the successive elements in its sorted form.
+
+41) First Repeating Element
+
+42) Equilibrium index of an array is an index such that the sum of elements at lower indexes is equal to the sum of elements at higher indexes.
+
+----------------------------------------------
+EASY QUESTIONS FORK JAVA
+
+43) Given an arry A (may contain duplicates) of N elements and a positive integer K. The task is to count the number of elements which occurs exactly floor(N/K) times in the array.
+
+44) Working with 2D arrays is quite important. Here we will do swapping of column in a 2D array. You are given a matrix M or r rows and c columns. You need to swap the first column with the last column.
+
+45) Given a matrix(2D array) M of size N*N consisting of 0s and 1s only. The task is to find the column with maximum number of 0s.
+
+46) You are given a string s containing only lowecase letters. You need to count the number of vowels and the number of consonants.
+
+If vowel count > consonant count then print - “Yes”(without quotes).
+If vowel count < consonant count then print - “No”(without quotes).
+If vowel count = consonant count then print - “Same”(without quotes).
+
+( Dont forget to remove space
+
+
+ # 46)Given two strings S1 and S2 consisting of only lowercase characters whose anagrams are almost equal. The task is to count the number of characters which needs to be edited(delete) to make S1 equal to S2.
