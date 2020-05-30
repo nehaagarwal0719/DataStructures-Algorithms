@@ -18,3 +18,12 @@ Don't print but append in a string to reduce time complexity.
 8) Bracket Number Given an expression exp of length n consisting of some brackets. The task is to print the bracket numbers when the expression is being parsed.
 
 ## 9) Your task is to implement  2 stacks in one array efficiently 
+
+## 10) Given a string S consisting only of opening and closing parenthesis 'ie '('  and ')', find out the length of the longest valid substring.
+
+11) An encoded string (s) is given, the task is to decode it. The pattern in which the strings were encoded were as follows
+original string: abbbababbbababbbab 
+encoded string : "3[a3[b]1[ab]]".
+
+
+12) Stack using two queues

@@ -119,3 +119,18 @@ If vowel count = consonant count then print - “Same”(without quotes).
 
 
  # 46)Given two strings S1 and S2 consisting of only lowercase characters whose anagrams are almost equal. The task is to count the number of characters which needs to be edited(delete) to make S1 equal to S2.
+
+
+ 47) You are given a string s of x and y. You need to verify whether the string follows the pattern xnyn. That is the string is valid only if equal number of ys follow equal number of xs.
+As an example: xxyyxxyy is valid. xy is valid. xxyyx is invalid. xxxyyyxxyyxy is valid.
+
+49) You are given N ropes. A cut operation is performed on ropes such that all of them are reduced by the length of the smallest rope. Display the number of ropes left after every cut operation till the length of each rope is zero.
+
+50) Suppose you are car driver and you have to drive a car on a track divided into "N" number of sub-tracks. You are also given the value of "K" i.e. the total kilometers the car can drive on each sub-track. If the car can't cover a sub-track, you can add any unit of Petrol in it. With each unit of petrol added, the total kilometers your car can travel will increase by one unit .
+
+#### 51) Given an unsorted array of size N of positive integers. One number 'A' from set {1, 2, …N} is missing and one number 'B' occurs twice in array. Find these two numbers.
+
+# 52) Ishaan being curious as always, was playing with numbers when he started to reversing the numbers. He invented something called the "inverting factor" of two numbers.
+Inverting Factor of 2 integers is defined as the absolute difference between the reverse of the 2 integers.
+
+53) Given two arrays A and B of positive integers. Your task is to find numbers which are present in the first array, but not present in the second array.
