@@ -119,3 +119,6 @@ affecting the positions of the special characters.
 
 41) Permutations of a given string sorted in lexicographical order
 
+42) Maximum number of characters between any two same character
+
+43) Given an array of names of candidates in an election. A candidate name in array represents a vote casted to the candidate. The task is to print the name of candidates received maximum vote. If there is tie, print lexicographically smaller name.

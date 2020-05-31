@@ -31,3 +31,7 @@ encoded string : "3[a3[b]1[ab]]".
 ### 13) THE CELEBRITY PROBLEM ( SEE BOTH THE SOLUTIONS)
 
 14) evaluating postfix expression using stack
+
+15) Infix to Postfix
+
+16) paranthesis checker
