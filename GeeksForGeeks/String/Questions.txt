@@ -109,3 +109,13 @@ https://practice.geeksforgeeks.org/problems/decode-the-pattern/0
 36) Given a sequence of strings, the task is to find out the second most repeated (or frequent) string in the given sequence.
 
 37) You are given a string that is made up of words separated by spaces. Your task is to find the word with highest frequency, i.e. it appears maximum times in the sentence. If multiple words have maximum frequency, then print the word that occurs first in the sentence.
+
+38) Given a string S, containing special characters and all the alphabets, reverse the string without
+affecting the positions of the special characters.
+
+39)  Given two string 'str1' and 'str2', check if two given strings are isomorphic to each other. Two strings str1 and str2 are called isomorphic if there is a one to one mapping possible for every character of str1 to every character of str2. And all occurrences of every character in ‘str1′ map to same character in ‘str2′.
+
+40) common subsequence
+
+41) Permutations of a given string sorted in lexicographical order
+

@@ -134,3 +134,14 @@ As an example: xxyyxxyy is valid. xy is valid. xxyyx is invalid. xxxyyyxxyyxy is
 Inverting Factor of 2 integers is defined as the absolute difference between the reverse of the 2 integers.
 
 53) Given two arrays A and B of positive integers. Your task is to find numbers which are present in the first array, but not present in the second array.
+
+54) sort an array of 0,1 and 2
+
+
+#### 55) FACTORIAL OF A LARGE NUMBER ( https://www.youtube.com/watch?v=LCDSigIDqnw)
+
+ # 56) Given an array A of N positive numbers. The task is to find the position where equilibrium first occurs in the array. Equilibrium position in an array is a position such that the sum of elements before it is equal to the sum of elements after it.
+
+(TLE HAD TO USED BUFFERED READER)
+
+57) Given N students sitting in a circle You have to distribute M candies to these students also , ith student takes i candies. if ith student didn't get required candies then he will not take it. you have to distribute the candies starting from 1st student and moving along the circle of students till you cannot distribute to a student. you need to output the left out candies.
