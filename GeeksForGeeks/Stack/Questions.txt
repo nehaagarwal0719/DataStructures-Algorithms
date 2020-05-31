@@ -29,3 +29,5 @@ encoded string : "3[a3[b]1[ab]]".
 12) Stack using two queues
 
 ### 13) THE CELEBRITY PROBLEM ( SEE BOTH THE SOLUTIONS)
+
+14) evaluating postfix expression using stack
