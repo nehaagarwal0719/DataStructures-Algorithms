@@ -145,3 +145,9 @@ Inverting Factor of 2 integers is defined as the absolute difference between the
 (TLE HAD TO USED BUFFERED READER)
 
 57) Given N students sitting in a circle You have to distribute M candies to these students also , ith student takes i candies. if ith student didn't get required candies then he will not take it. you have to distribute the candies starting from 1st student and moving along the circle of students till you cannot distribute to a student. you need to output the left out candies.
+
+58) Given a binary array A of size N and an integer M. Find the maximum number of consecutive 1's produced by flipping at most M 0's.
+
+59) Row with max 1s
+
+60) Swapping pairs make sum equa

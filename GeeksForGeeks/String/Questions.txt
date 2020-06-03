@@ -122,3 +122,5 @@ affecting the positions of the special characters.
 42) Maximum number of characters between any two same character
 
 43) Given an array of names of candidates in an election. A candidate name in array represents a vote casted to the candidate. The task is to print the name of candidates received maximum vote. If there is tie, print lexicographically smaller name.
+
+44) Given a string of both uppercase and lowercase alphabets, the task is to print the string with alternate occurrences of any character dropped(including space and consider upper and lowercase as same).
