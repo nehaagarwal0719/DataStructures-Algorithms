@@ -35,3 +35,5 @@ encoded string : "3[a3[b]1[ab]]".
 15) Infix to Postfix
 
 16) paranthesis checker
+
+17) min element in stack
