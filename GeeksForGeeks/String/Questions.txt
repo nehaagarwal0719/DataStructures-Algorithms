@@ -124,3 +124,20 @@ affecting the positions of the special characters.
 43) Given an array of names of candidates in an election. A candidate name in array represents a vote casted to the candidate. The task is to print the name of candidates received maximum vote. If there is tie, print lexicographically smaller name.
 
 44) Given a string of both uppercase and lowercase alphabets, the task is to print the string with alternate occurrences of any character dropped(including space and consider upper and lowercase as same).
+
+45) You will be given N number of strings. You have to find the lexicographically smallest string and the lexicographically largest string among these strings.
+
+46) You are given an array A of N integers. You need to make all the elements of the array even. 
+Now, to make an element even, you can add 1 to any element of the array. Also, when any element of the array is converted to even, any neighbouring element which is odd, can also be made even without adding 1 yourself.
+
+47) Ishaan's friend, Charul, gave a challenge to Ishaan. He gave a series to Ishaan and asked him to find the Nth term of that series.
+Ishaan is very weak at solving series, so he needs your help. Help him find the Nth term of the following series :
+N    Nth term
+1    0
+2    1
+3    0
+4    2
+.
+.
+.
+10    1
