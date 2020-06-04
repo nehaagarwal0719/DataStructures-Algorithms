@@ -141,3 +141,7 @@ N    Nth term
 .
 .
 10    1
+
+48) Given an string in roman no format (s)  your task is to convert it to integer .
+
+49) Given a string with brackets. If the start index of the open bracket is given, find the index of the closing bracket.
