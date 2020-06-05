@@ -155,3 +155,18 @@ Inverting Factor of 2 integers is defined as the absolute difference between the
 61) Given an unsorted array of numbers, write a function that test whether array consists of consecutive numbers.
 
 62) Given a sorted array arr[] of non-repeating integers without duplicates. Sort the array into a wave-like array and return it. In other words, arrange the elements into a sequence such that a1 >= a2 <= a3 >= a4 <= a5..... (considering the increasing lexicographical order).
+
+63) Given an array of size N that has elements ranging from 0 to N-1. All elements may not be present in the array. If element is not present then there will be -1 present
+
+in the array. Rearrange the array such that A[i] = i, and if i is not present, display -1 at that place.
+
+
+64) Given a word S and a text C. Return the count of the occurences of anagrams of the word in the text.
+
+65) For a given string delete the elements which are appearing more than once consecutively. All letters are of lowercase.
+
+66) Subarray with least average
+
+67) You are given an array A, of N elements. You need to find minimum distance between given two integers x and y.
+
+68) You are given an array A (distinct elements) of size N. Find out the maximum difference between any two elements such that larger element appears after the smaller number in A.
