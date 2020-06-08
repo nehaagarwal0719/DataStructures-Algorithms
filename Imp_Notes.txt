@@ -1,7 +1,15 @@
 Bitwise operations help us in a lot of problems. We can find the non-repeating element in an array, find number of set-bits, do division, find subsets and so on. Indeed, we can see that learning to cleverly use bitwise operations is vital to any programmer.
 
+
+xor o with x=x and xor of same nos =0. To find the no repeated odd times 
+
+XOR has certain properties
+Assume a1 ^ a2 ^ a3 ^ …^ an = a and a1 ^ a2 ^ a3 ^ …^ an-1 = b -- to find the missing no
+Then a ^ b = an
+
 postfix expressions are evaluated fatser since they dont require paranthesis
 
  Collections.sort(list, Collections.reverseOrder());  --- to sort the list in reverse order
 
 
+Stream does not store elements. It simply conveys elements from a source such as a data structure, an array, or an I/O channel, through a pipeline of computational operations.

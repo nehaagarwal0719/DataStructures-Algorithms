@@ -170,3 +170,19 @@ in the array. Rearrange the array such that A[i] = i, and if i is not present, d
 67) You are given an array A, of N elements. You need to find minimum distance between given two integers x and y.
 
 68) You are given an array A (distinct elements) of size N. Find out the maximum difference between any two elements such that larger element appears after the smaller number in A.
+
+69)In given range, print all numbers having unique digits. e.g. In range 1 to 20 should print all numbers except 11.
+
+ 70) union of 2 arrays
+
+ 71) intersection of 2 array
+
+ ### 72) First Repeating Element
+
+ 73) Given three increasingly sorted arrays A, B, C of sizes N1, N2, and N3 respectively, you need to print all common elements in these arrays.
+
+ 74) Given an array with repeated elements, the task is to find the maximum distance between two occurrences of an element.
+
+ 75) https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem/0
+
+ 
