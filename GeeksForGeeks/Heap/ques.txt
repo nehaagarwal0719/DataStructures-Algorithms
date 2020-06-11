@@ -1,0 +1,3 @@
+1) Height of Heap 
+
+2) Given a binary tree you need to check if it follows max heap property or not.

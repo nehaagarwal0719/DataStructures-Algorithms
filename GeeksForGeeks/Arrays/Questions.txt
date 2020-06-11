@@ -185,4 +185,9 @@ in the array. Rearrange the array such that A[i] = i, and if i is not present, d
 
  75) https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem/0
 
- 
+ 76) Given an array of positive integers. Your task is to find the leaders in the array.
+Note: An element of array is leader if it is greater than or equal to all the elements to its right side. Also, the rightmost element is always a leader. 
+
+ ## 77) Minimum Swaps required to group all 1’s togethe
+
+78) Product Array Puzzle -Given an array A of size N, construct a Product Array P (of same size) such that P is equal to the product of all the elements of A except A[i].
