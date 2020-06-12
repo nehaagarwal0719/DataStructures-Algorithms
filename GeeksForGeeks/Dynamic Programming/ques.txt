@@ -31,3 +31,24 @@ Note: str1 and str2 can have both uppercase and lowercase lett
 13) Minimum number of deletions and insertions.
 
 Given two strings ‘str1’ and ‘str2’ of size m and n respectively. The task is to remove/delete and insert minimum number of characters from/in str1 so as to transform it into str2. It could be possible that the same character needs to be removed/deleted from one point of str1 and inserted to some another point.
+
+14) longest palindromic subsequence
+
+15) min deletion to make plaindrome
+Given a string of S as input. Your task is to write a program to remove or delete minimum number of characters from the string so that the resultant string is palindrome.
+
+Note: The order of characters in the string should be maintained.
+
+16) printing shortest common supersequence
+
+17) Longest Repeating Subsequence
+
+  Given a string str, find length of the longest repeating subseequence such that the two subsequence don’t have same string character at same position, i.e., any i’th character in the two subsequences shouldn’t have the same index in the original string.
+
+
+18) Given a string, find the minimum number of characters to be inserted to convert it to palindrome.  
+
+19) Longest Palindromic Subsequence
+
+20) Increasing Sub Sequence 
+  Given a string which includes characters a, b, c, ..., z. Where value of a=1, b=2, ..., z=26. Now find the largest increasing sub sequence in the string and print it's length.
