@@ -11,7 +11,7 @@ class GFG {
 		
 		for(int i=1;i<=T;i++){
 		    int n=sc.nextInt();
-	        //int k=sc.nextInt();
+	        
 	        
 		 int a[] = new int[n],j;
 		 

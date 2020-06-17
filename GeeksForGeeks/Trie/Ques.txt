@@ -2,3 +2,7 @@
 
 2) CamelCase Pattern Matching
    https://practice.geeksforgeeks.org/problems/camelcase-pattern-matching/0
+
+3) Given a binary matrix your task is to complete the function printMat which prints all unique rows of the given matrix. The function takes three arguments the first argument is a matrix M and the next two arguments are row and col denoting the rows and columns of the matrix.
+
+///CAN ALSO BE DONE SIMPLY USING HASHSET WITH BETTER SPACE COMPLEXITY
