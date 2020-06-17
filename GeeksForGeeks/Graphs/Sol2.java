@@ -1,18 +1,29 @@
 class Traversal
 {
-    static void dfs(int src, ArrayList<ArrayList<Integer>> list, boolean vis[])
-    {
-       // add your code here
-       vis[src]=true;
-       System.out.print(src + " ");
+    ArrayList<Integer> al = new ArrayList<Integer>();
+    
+     ArrayList<Integer> dfs(ArrayList<ArrayList<Integer>> g, int N)
+      {
+       boolean visited[] = new boolean[N];
        
-        Iterator<Integer> i = list.get(src).listIterator(); 
+       visited[0]=true;
+       
+       DFSUtil(0, visited,g); 
+       return al;
+      }
+    
+    void DFSUtil(int v, boolean visited[],ArrayList<ArrayList<Integer>> g){
+        visited[v]=true;
+        al.add(v);
+        
+        Iterator<Integer> i = g.get(v).listIterator(); 
         while (i.hasNext()) 
         { 
             int n = i.next(); 
-            if (!vis[n]) 
-                dfs(n,list, vis); 
+            if (!visited[n]) 
+                DFSUtil(n, visited,g); 
         } 
         
     }
+      
 }

@@ -42,3 +42,12 @@ Note: Element greater than or equal to root go to the right side.
 
 ## 21) Given a binary tree, return the tilt of the whole tree.
        The tilt of a tree node is defined as the absolute difference between the sum of all left subtree node values and the sum of all right subtree node values. Null node has tilt 0.
+
+## 22) diameter of a binary tree
+
+##b 23) Binary Tree Maximum Path Sum
+   Given a non-empty binary tree, find the maximum path sum.
+
+For this problem, a path is defined as any sequence of nodes from some starting node to any node in the tree along the parent-child connections. The path must contain at least one node and does not need to go through the root.
+
+#### 24) Given a binary tree in which each node element contains a number. Find the maximum possible sum from one leaf node to another.

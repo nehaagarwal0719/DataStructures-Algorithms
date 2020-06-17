@@ -37,7 +37,7 @@ Determine the tastiness level of the square which his sister gets.
 ## 17)Given an array of integers, and an integer  ‘K’ , find the count of pairs of elements in the array whose sum is equal to 'K'.
 
 
-## 18) Max Sum Subarray of size K (Sliding window method)
+18) Max Sum Subarray of size K (Sliding window method)
 
 21)Given an array of integers (A[])  and a number x, find the smallest subarray with sum greater than the given value.
 
@@ -191,3 +191,28 @@ Note: An element of array is leader if it is greater than or equal to all the el
  ## 77) Minimum Swaps required to group all 1’s togethe
 
 78) Product Array Puzzle -Given an array A of size N, construct a Product Array P (of same size) such that P is equal to the product of all the elements of A except A[i].
+
+79) Given an array A[] of N positive integers which can contain integers from 1 to N where elements can be repeated or can be absent from the array. Your task is to count frequency of all elements from 1 to N.
+
+## 80) Given two unsorted arrays arr1[] and arr2[]. They may contain duplicates. For each element in arr1[] count elements less than or equal to it in array arr2[].
+
+81) Given an array of integers of size N. Assume ‘0’ as invalid number and all other as valid number. Write a program that modifies the array in such a way that if next number is  valid number and is same as current number, double the current number value and replace the next number with 0. After the modification, rearrange the array such that all 0’s are shifted to the end and the sequence of the valid number or new doubled number is maintained as in the original array.
+
+82) You are given an array A of size N. You need to find all pairs in the array that sum to a number K. If no such pair exists then output will be -1. The elements of the array are distinct and are in sorted order.
+Note: (a,b) and (b,a) are considered same. Also, an element cannot pair with itself, i.e., (a,a) is invalid.n
+
+# 83) Given a positive integer N, find the Nth fibonacci number. Since the answer can be very large, print the answer modulo 1000000007.
+
+84) Largest Fibonacci Subsequence
+
+85) Min sum formed by digits
+    Given an array of digits (values are from 0 to 9), find the minimum possible sum of two numbers formed from digits of the array. All digits of given array must be used to form the two numbers.
+    https://practice.geeksforgeeks.org/problems/min-sum-formed-by-digits/0
+
+## 86) First negative integer in every window of size k     
+
+## 87) Largest subarray of 0's and 1's
+
+88) Given an array of integers and a number K. Find the count of distinct elements in every window of size K in the array.
+
+# 89) Subarray with 0 sum

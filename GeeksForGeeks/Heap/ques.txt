@@ -1,3 +1,38 @@
 1) Height of Heap 
 
 2) Given a binary tree you need to check if it follows max heap property or not.
+
+3) Given an array of N positive integers, print k largest elements from the array.  The output elements should be printed in decreasing order
+
+4) kth largest element
+
+5) sort a k sorted array | nearly sorted algorithm 
+   Given an array of n elements, where each element is at most k away from its target position. The task is to print array in sorted form
+
+ ## 6)    Kth largest element in a stream
+         2
+4 6
+1 2 3 4 5 6
+1 2
+3 4
+
+Output:
+-1 -1 -1 1 2 3
+3 4 
+
+7) Find K Closest Elements
+   https://leetcode.com/problems/find-k-closest-elements/
+   Given a sorted array arr, two integers k and x, find the k closest elements to x in the array. The result should also be sorted in ascending order. If there is a tie, the smaller elements are always preferred.
+
+ 8) . Top K Frequent Elements
+
+ 9) Sorting Elements of an Array by Frequency
+   ( NOt necessary to solve through heap)
+
+10) k closest points to origin  
+    https://leetcode.com/problems/k-closest-points-to-origin/
+
+11) Minimum Cost of ropes
+   There are given N ropes of different lengths, we need to connect these ropes into one rope. The cost to connect two ropes is equal to sum of their lengths. The task is to connect the ropes with minimum cost.       
+
+12) Given an array of positive integers and two positive integers K1 and K2. Find sum of all elements greater tha K1th and smaller than K2th smallest elements of array.   

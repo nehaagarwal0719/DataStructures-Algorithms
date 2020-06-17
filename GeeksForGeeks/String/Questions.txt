@@ -147,3 +147,6 @@ N    Nth term
 49) Given a string with brackets. If the start index of the open bracket is given, find the index of the closing bracket.
 
 50) Your task is to implement the function strstr. The function takes two strings as arguments (s,x) and  locates the occurrence of the string x in the string s. The function returns and integer denoting the first occurrence of the string x in s.
+
+## 51) Smallest distinct windowGiven a string 's'. The task is to find the smallest window length that contains all the characters of the given string at least one time.
+For eg. A = “aabcbcdbca”, then the result would be 4 as of the smallest window will be “dbca”.
