@@ -4,7 +4,11 @@
 
 3) Row with minimum number of 1's (same logic)
 
-4) Given a binary matrix your task is to complete the function printMat which prints all unique rows of the given matrix. The function takes three arguments the first argument is a matrix M and the next two arguments are row and col denoting the rows and columns of the matrix.
+4) Search in a matrix
 
-///CAN ALSO BE DONE SIMPLY USING HASHSET WITH BETTER SPACE COMPLEXITY
+## 5) Spirally traversing a matrix
+
+## 6) Rotate a matrix by 90 degree. First transpose a matrix and then coloumns are reversed. 
+
+7) Given an n x n matrix, where every row and column is sorted in non-decreasing order. Print all elements of matrix in sorted order.
 

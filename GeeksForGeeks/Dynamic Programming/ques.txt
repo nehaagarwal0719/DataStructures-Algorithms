@@ -52,3 +52,10 @@ Note: The order of characters in the string should be maintained.
 
 20) Increasing Sub Sequence 
   Given a string which includes characters a, b, c, ..., z. Where value of a=1, b=2, ..., z=26. Now find the largest increasing sub sequence in the string and print it's length.
+
+
+
+
+
+
+21) Matrix Chain Multiiplication (using memoization)

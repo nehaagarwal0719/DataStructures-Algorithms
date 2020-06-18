@@ -37,3 +37,12 @@ encoded string : "3[a3[b]1[ab]]".
 16) paranthesis checker
 
 17) min element in stack
+
+
+18) Next larger element
+
+19) smallest no on left
+
+ ### 20) Stock span problem 
+
+### 21) Maximum Rectangular Area in a Histogram
