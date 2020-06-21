@@ -46,3 +46,7 @@ encoded string : "3[a3[b]1[ab]]".
  ### 20) Stock span problem 
 
 ### 21) Maximum Rectangular Area in a Histogram
+
+## 22) Max rectange in a Binary Matrix
+
+23) Queue using stacks ( see the other 2 methods also)

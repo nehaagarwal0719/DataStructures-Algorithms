@@ -11,6 +11,9 @@
 
  6) Given an array, the task is to divide it into two sets S1 and S2 such that the absolute difference between their sums is minimum. 
 
+ ##### 6a)  Target sum (very imp)
+
+
  7) Unbounded knapsack
 
  8) Given a rod of length n inches and an array of prices that contains prices of all pieces of size smaller than n. Determine the maximum value obtainable by cutting up the rod and selling the pieces.

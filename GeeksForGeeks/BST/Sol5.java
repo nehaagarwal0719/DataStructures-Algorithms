@@ -1,4 +1,6 @@
-public static int sumOfLeafNodes(Node root)
+class GfG
+{
+    public static int sumOfLeafNodes(Node root)
     {
         if(root == null)
           return 0;
@@ -8,3 +10,4 @@ public static int sumOfLeafNodes(Node root)
           
         return sumOfLeafNodes(root.left)+sumOfLeafNodes(root.right);
     }
+}

@@ -1,0 +1,33 @@
+1) Insertion in BST
+
+2) search a node in BST
+
+### 3) Delete a node in BST
+
+4) Min value in a BST
+
+
+5) sum of leaf nodes in BST
+
+
+
+6) print BST Nodes within a range
+
+7) Count BST nodes that lie in a given range
+
+
+
+
+8) Sorted array to BST
+
+9) Normal BST to Balanced BST
+  Given a Binary Search Tree of size N, that may be unbalanced. Your task is to complete the function buildBalancedTree(), that convert the given BST into a balanced BST that has minimum possible height. 
+
+
+10) Binary Tree to BST  
+
+
+
+
+
+11) Inorder succesor of a BST

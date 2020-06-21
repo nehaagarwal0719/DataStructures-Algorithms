@@ -5,7 +5,7 @@ import java.io.*;
 class GFG {
 	public static void main (String[] args) throws Exception {
 		
-	   InputStreamReader r=new InputStreamReader(System.in);    
+	    InputStreamReader r=new InputStreamReader(System.in);    
         BufferedReader br=new BufferedReader(r);    
     
 		int T=Integer.parseInt(br.readLine());

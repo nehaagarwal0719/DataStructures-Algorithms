@@ -150,7 +150,7 @@ class GFG {
 	public static void main (String[] args) throws Exception {
 	;
 	    InputStreamReader r=new InputStreamReader(System.in);    
-    BufferedReader br=new BufferedReader(r);    
+        BufferedReader br=new BufferedReader(r);    
     
 		int T=Integer.parseInt(br.readLine());
 		

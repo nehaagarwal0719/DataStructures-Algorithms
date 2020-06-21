@@ -1,6 +1,6 @@
-1) Height of Heap 
+## 1) Height of Heap 
 
-2) Given a binary tree you need to check if it follows max heap property or not.
+## 2) Given a binary tree you need to check if it follows max heap property or not.
 
 3) Given an array of N positive integers, print k largest elements from the array.  The output elements should be printed in decreasing order
 
@@ -29,10 +29,16 @@ Output:
  9) Sorting Elements of an Array by Frequency
    ( NOt necessary to solve through heap)
 
-10) k closest points to origin  
+## 10) k closest points to origin  
     https://leetcode.com/problems/k-closest-points-to-origin/
 
-11) Minimum Cost of ropes
+## 11) Minimum Cost of ropes
    There are given N ropes of different lengths, we need to connect these ropes into one rope. The cost to connect two ropes is equal to sum of their lengths. The task is to connect the ropes with minimum cost.       
 
 12) Given an array of positive integers and two positive integers K1 and K2. Find sum of all elements greater tha K1th and smaller than K2th smallest elements of array.   
+
+13) Given an array arr[] and an integer K, you have to Add first two minimum elements of the array until all the elements are greater than K and find the number of such operations required. 
+
+## 14) Maximum distinct elements after removing K elements
+
+## 15) Binary heap operations
