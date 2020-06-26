@@ -26,7 +26,7 @@
 
 
 
-# 15) Inorder Traversal and BST ( don't forget to put equal to)
+
 
 
 

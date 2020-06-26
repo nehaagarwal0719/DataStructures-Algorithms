@@ -1,0 +1,49 @@
+1) Deletion in Binary trees
+
+2) inorder traversal
+
+3) postorder traversal
+
+4) preorder traversal
+
+5) level order traversal //can see another method if you want
+
+6) Reverse level order traversal
+
+7) Height of a tree
+
+8) Mirror of a tree
+
+9) Check if Binary tree is balanced or not
+
+10) Max and min element in Binary Tree
+
+
+11) Vertical Traversal of Binary Tree 
+
+12) Top view of Binary tree
+
+13) Bottom view of Binary Tree
+
+14) left view of BT
+
+15) level order traversal in spiral form 
+
+16)
+
+17)
+
+18) Construct tree from inorder and preorder
+
+19)
+
+20)
+
+21) Write a function that returns true if the given Binary Tree of size N is SumTree else return false. A SumTree is a Binary Tree in which value of each node x is equal to sum of nodes present in its left subtree and right subtree . An empty tree is SumTree and sum of an empty tree can be considered as 0. A leaf node is also considered as SumTree.
+
+22) Transform to sum tree
+    Given a Binary Tree of size N , where each node has positive and negative values. Convert this to a tree where each node contains the sum of the left and right sub trees in the original tree. The values of leaf nodes are changed to 0.
+
+23) Max Level Sum in Binary Tree 
+
+24) check if binart tree is full binary tree    

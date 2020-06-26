@@ -216,3 +216,7 @@ Note: (a,b) and (b,a) are considered same. Also, an element cannot pair with its
 88) Given an array of integers and a number K. Find the count of distinct elements in every window of size K in the array.
 
 # 89) Subarray with 0 sum
+
+#### 90) Maximum of all subarrays of size k
+
+#### 91) subarray with given sum (only for +ve nos)

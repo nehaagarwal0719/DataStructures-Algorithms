@@ -31,3 +31,9 @@
 
 
 11) Inorder succesor of a BST
+
+
+12) Inorder Traversal and BST ( don't forget to put equal to)
+
+
+13) print common nodes in BST
