@@ -37,3 +37,31 @@
 
 
 13) print common nodes in BST
+
+
+##14) Check if is BST or not
+
+##15)Root to Leaf Paths 
+
+## 716) Find inorder successor and inorder predecessor
+
+17) construct BST from prerder traversal
+
+18) kth largest element from BST
+
+19) kth smallest element in BST ( for both these ques ans will not come if you take these global variables as func params)
+
+20) Lowest common ancestor in bst
+
+
+
+
+
+
+
+
+
+
+51) INSERTION IN AVL TREE
+
+52) DELETION IN AVL TREE

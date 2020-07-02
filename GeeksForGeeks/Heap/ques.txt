@@ -42,3 +42,11 @@ Output:
 ## 14) Maximum distinct elements after removing K elements
 
 ## 15) Binary heap operations
+
+16) kth smallest element
+
+#### 17) Huffman encoding
+
+#### 18) huffman decoding
+
+19) merge k sorted arrays

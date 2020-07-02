@@ -220,3 +220,24 @@ Note: (a,b) and (b,a) are considered same. Also, an element cannot pair with its
 #### 90) Maximum of all subarrays of size k
 
 #### 91) subarray with given sum (only for +ve nos)
+     91a) subarray sum (for -ve nos also)
+
+
+92) sort a binary array
+
+93) bubble sort
+
+94) Given an array A of N integers. Your task is to write a program to find the maximum value of ∑arr[i]*i, where i = 0, 1, 2,…., n – 1.
+You are allowed to rearrange the elements of the array.
+Note: Since output could be large, hence module 109+7 and then print answer.
+
+95) counting subarrays with given sum
+
+## 96) merge sort
+
+### 97) quick sort
+
+### 98) Minimum Platforms - 
+Given arrival and departure times of all trains that reach a railway station. Your task is to find the minimum number of platforms required for the railway station so that no train waits.
+
+

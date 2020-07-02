@@ -1,0 +1,17 @@
+1) First and last occurrences of X
+
+2) Given a sorted array A of size N and a number X, you need to find the number of occurrences of X in A.
+
+3) Given a sorted array A of size N. The array is rotated 'K' times. Find the value of 'K'. The array may contain duplicate elements.
+
+4)  Search in Rotated Sorted Array
+
+5) Floor in a sorted array
+
+6) Next Letter/ Find Smallest Letter Greater Than Target
+
+7) peak element- Given an array A of N integers. The task is to find a peak element in it in O( log N ) .
+An array element is peak if it is not smaller than its neighbours. For corner elements, we need to consider only one neighbour.
+Note: There may be multiple peak element possible, in that case you may return any valid inde
+
+8) finding element in bitonic array

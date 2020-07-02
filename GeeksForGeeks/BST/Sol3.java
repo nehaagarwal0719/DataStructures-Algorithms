@@ -1,4 +1,4 @@
-class Tree
+]oclass Tree
 {
     // Return the root of the modified BST after deleting the node with value X
 	public static Node deleteNode(Node root, int x)

@@ -6,15 +6,11 @@
 
 4) sum of all leaf nodes
 
-5) inorder traversal
 
-6) postorder traversal
-
-7) preorder traversal
 
 8) count non leaf nodes
 
-9) mirror of a tree
+
 
 10) get level difference
 

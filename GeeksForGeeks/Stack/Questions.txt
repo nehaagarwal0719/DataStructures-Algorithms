@@ -21,10 +21,9 @@ Don't print but append in a string to reduce time complexity.
 
 ## 10) Given a string S consisting only of opening and closing parenthesis 'ie '('  and ')', find out the length of the longest valid substring.
 
-11) An encoded string (s) is given, the task is to decode it. The pattern in which the strings were encoded were as follows
+## 11) An encoded string (s) is given, the task is to decode it. The pattern in which the strings were encoded were as follows
 original string: abbbababbbababbbab 
 encoded string : "3[a3[b]1[ab]]".
-
 
 12) Stack using two queues
 
@@ -36,17 +35,18 @@ encoded string : "3[a3[b]1[ab]]".
 
 16) paranthesis checker
 
-17) min element in stack
-
+## 17) min element in stack
 
 18) Next larger element
 
 19) smallest no on left
 
- ### 20) Stock span problem 
+ ## 20) Stock span problem 
 
 ### 21) Maximum Rectangular Area in a Histogram
 
-## 22) Max rectange in a Binary Matrix
+## 22) Max rectange in a Binary Matrix  ( accepted in leetcode not in gfg)
 
 23) Queue using stacks ( see the other 2 methods also)
+
+## 24) Rain Water Trapping not related to stack

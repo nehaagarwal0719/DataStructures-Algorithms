@@ -21,6 +21,8 @@
 
 11) Vertical Traversal of Binary Tree 
 
+11a) vertical sum
+
 12) Top view of Binary tree
 
 13) Bottom view of Binary Tree
@@ -35,7 +37,7 @@
 
 18) Construct tree from inorder and preorder
 
-19)
+
 
 20)
 

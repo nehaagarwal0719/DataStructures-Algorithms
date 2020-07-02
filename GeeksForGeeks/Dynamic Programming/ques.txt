@@ -62,6 +62,12 @@ Note: The order of characters in the string should be maintained.
 
 
 
+22) Find number of times a string occurs as a subsequence
+
+
+
+
+
 
 
 
