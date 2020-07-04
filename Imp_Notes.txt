@@ -24,3 +24,7 @@ A binary heap is a Binary Tree with the following properties:
 
 ##IMP
 Advantages of BST over Hash Table
+
+
+Modulo 10^9+7 (1000000007)  
+we do this in many ques to prevent integer overflow like array que no 94

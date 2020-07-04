@@ -17,3 +17,5 @@ static boolean findsum(int a[],int n)
     
     return false;
 }
+
+//can use hashset

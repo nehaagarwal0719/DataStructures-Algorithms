@@ -221,6 +221,7 @@ Note: (a,b) and (b,a) are considered same. Also, an element cannot pair with its
 
 #### 91) subarray with given sum (only for +ve nos)
      91a) subarray sum (for -ve nos also)
+     91b) Longest Sub-Array with Sum K
 
 
 92) sort a binary array
@@ -241,3 +242,14 @@ Note: Since output could be large, hence module 109+7 and then print answer.
 Given arrival and departure times of all trains that reach a railway station. Your task is to find the minimum number of platforms required for the railway station so that no train waits.
 
 
+99) reverse array in groups
+
+
+#### 100) The cost of stock on each day is given in an array A[] of size N. Find all the days on which you buy and sell the stock so that in between those days your profit is maximum.
+https://practice.geeksforgeeks.org/problems/stock-buy-and-sell2615/1
+
+## 101)Given an unsorted array of size N. Find the first element in array such that all of its left elements are smaller and all right elements to it are greater than it.
+
+Note: Left and right side elements can be equal to required element. And extreme elements cannot be required element
+
+https://practice.geeksforgeeks.org/problems/unsorted-array/0
