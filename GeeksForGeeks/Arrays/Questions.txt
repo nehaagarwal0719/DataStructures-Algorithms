@@ -12,7 +12,7 @@
 
 7) Find minimum and maximum element in an array
 
-8) Given an array of penalties P, an array of car numbers C, and also the date D. The task is to find the total fine which will be collected on the given date. Fine is collected from odd-numbered cars on even dates and vice versa.
+8) Given an array of penalties P, an array e car numbers C, and also the date D. The task is to find the total fine which will be collected on the given date. Fine is collected from odd-numbered cars on even dates and vice versa.
 
 9) You are given a sorted array containing only numbers 0 and 1. Find the transition point efficiently. Transition point is a point where "0" ends and "1" begins.
 Note that, if there is no "1" exists, print -1.
@@ -222,6 +222,7 @@ Note: (a,b) and (b,a) are considered same. Also, an element cannot pair with its
 #### 91) subarray with given sum (only for +ve nos)
      91a) subarray sum (for -ve nos also)
      91b) Longest Sub-Array with Sum K
+     91c)Largest Sum Subarray of Size at least K
 
 
 92) sort a binary array
@@ -253,3 +254,12 @@ https://practice.geeksforgeeks.org/problems/stock-buy-and-sell2615/1
 Note: Left and right side elements can be equal to required element. And extreme elements cannot be required element
 
 https://practice.geeksforgeeks.org/problems/unsorted-array/0
+
+
+102)Given a string 's'. The task is to find the smallest window length that contains all the characters of the given string at least one time.
+For eg. A = “aabcbcdbca”, then the result would be 4 as of the smallest window will be “dbca”.
+SMALLEST DISTINCT WINDOW
+
+103) Smallest window in a string containing all the characters of another string
+
+### 104) Sorting Elements of an Array by Frequency

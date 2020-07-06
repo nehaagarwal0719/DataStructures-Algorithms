@@ -1,3 +1,4 @@
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
@@ -34,44 +35,29 @@ class GFG {
 		 
 		 int l=0,r=0,curs=0,f=0;
 		 
-		 while(l<n && r<n){
-		     if(curs<sum){
-		       curs=curs+ a[r];
-		       r++;
-		     }
-		     else if(curs>sum && l<n){
-		         while(curs>sum && l<n){
+		 while(r<=n){
+		      while(curs>sum && l<r-1){
 		            curs-=a[l];
 		            l++;
-		         }
 		     }
-		     else if(curs==sum){
+		     
+		   if(curs==sum){
 		         f=1;
 		         break;
 		     }
-		    // System.out.println(l+" "+r+" "+curs);
+		     
+		     if(r<n){
+		       curs=curs+ a[r];
+		       
+		     }
+		     r++;
 		 }
 
-		 if(sum==curs)
-		  f=1;
-		
+
 		
 		 if(f==1)
 		 System.out.println((l+1)+" "+(r));
-		 
-		 if(l<n && f!=1){
-		     while(curs>=sum && l<n){
-		         if(curs==sum){
-		             System.out.println((l+1)+" "+(r));
-		             f=1;
-		             break;
-		         }
-		         curs-=a[l];
-		         l++;
-		     }
-		 }
-		 
-		 if(f==0)
+		 else
 		 System.out.println(-1);
 	  } 
 	}

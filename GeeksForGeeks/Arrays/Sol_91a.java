@@ -45,11 +45,11 @@ class GFG {
 		     
 		    else  if(hm.containsKey(curs-sum)){
 		        s = hm.get(curs - sum) + 1; 
-                e = i; 
+                e = l; 
                 break; 
 		     }
 		     
-		     hm.put(curs,i);
+		     hm.put(curs,l);
 		     l++;
 		     }
 
