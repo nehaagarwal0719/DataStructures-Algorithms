@@ -234,6 +234,7 @@ You are allowed to rearrange the elements of the array.
 Note: Since output could be large, hence module 109+7 and then print answer.
 
 95) counting subarrays with given sum
+95b) counting subarrays with zero sum
 
 ## 96) merge sort
 
@@ -263,3 +264,9 @@ SMALLEST DISTINCT WINDOW
 103) Smallest window in a string containing all the characters of another string
 
 ### 104) Sorting Elements of an Array by Frequency
+
+##105) Longest consecutive subsequence
+
+106) Given an array A of N positive integers and another number X. Determine whether or not there exist two elements in A whose sum is exactly X.
+
+## 107) Count distinct pairs with difference k
