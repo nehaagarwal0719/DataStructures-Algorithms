@@ -29,6 +29,7 @@
 14) Count Pairs whose sum is equal to X
 
 15) Remove duplicates from an unsorted linked list
+15 b)  Remove duplicates from an sorted linked list
 
 16) Deleting a node without head pointer but can't be the last node
 
