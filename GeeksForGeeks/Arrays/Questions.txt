@@ -270,3 +270,11 @@ SMALLEST DISTINCT WINDOW
 106) Given an array A of N positive integers and another number X. Determine whether or not there exist two elements in A whose sum is exactly X.
 
 ## 107) Count distinct pairs with difference k
+
+108) Given an array a[] of size N which contains elements from 0 to N-1, you need to find all the elements occurring more than once in the given array.
+
+109) Sum equals to Sum
+
+110) Largest subarray with 0 sum 
+
+111) Triplet Sum in Array
