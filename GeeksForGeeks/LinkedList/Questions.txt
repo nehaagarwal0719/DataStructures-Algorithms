@@ -70,3 +70,7 @@ You should try to do it in place. The program should run in O(1) space complexit
  32)Linked List in Zig-Zag fashion
 
  33) check if linkedlist is circular
+
+ 34) Given a Cirular Linked List split it into two halves circular lists. If there are odd number of nodes in the given circular linked list then out of the resulting two halved lists, first list should have one node more than the second list. The resultant lists should also be circular lists and not linear lists.
+
+ 35)
