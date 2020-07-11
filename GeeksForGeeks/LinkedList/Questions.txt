@@ -66,3 +66,7 @@ You should try to do it in place. The program should run in O(1) space complexit
  30) Delete all occurences of a keys in a Linked list 
 
  31)Add 1 to a number represented as linked list
+
+ 32)Linked List in Zig-Zag fashion
+
+ 33) check if linkedlist is circular
