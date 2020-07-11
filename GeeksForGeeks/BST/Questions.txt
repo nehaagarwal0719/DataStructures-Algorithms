@@ -53,6 +53,9 @@
 
 20) Lowest common ancestor in bst
 
+21) min differece node/ Find the closest element in BST
+
+22) add all node values greater than k
 
 
 

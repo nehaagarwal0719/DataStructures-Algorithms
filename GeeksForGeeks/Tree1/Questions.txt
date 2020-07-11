@@ -37,7 +37,7 @@
 
 18) Construct tree from inorder and preorder
 
-
+19) Add all greater values to every node in a BST
 
 20)
 
@@ -49,3 +49,17 @@
 23) Max Level Sum in Binary Tree 
 
 24) check if binart tree is full binary tree    
+
+25) Determine if Two Trees are Identical
+
+26) Given a Binary Tree. Check whether it is Symmetric or not, i.e. whether the binary tree is a Mirror image of itself or not.
+
+27) Leftmost and rightmost nodes of binary tree
+
+28) Extreme nodes in alternate order
+
+29) Two Mirror Trees
+
+30) Check if Tree is IsomorphicYou don't need to read input or print anything. Your task is to complete the function isIsomorphic() that takes the root nodes of both the Binary Trees as its input and returns True if the two trees are isomorphic. Else, it returns False.
+
+31) Given a Binary Tree of size N. Find the sum of all the leaf nodes that are left child of their parent of the given binary tree.
