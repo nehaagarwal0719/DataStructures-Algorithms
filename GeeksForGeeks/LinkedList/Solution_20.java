@@ -1,4 +1,4 @@
-class GfG
+sdclass GfG
 {
     public static Node reverse(Node node, int k)
     {

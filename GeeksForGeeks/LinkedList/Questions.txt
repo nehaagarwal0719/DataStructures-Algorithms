@@ -74,3 +74,12 @@ You should try to do it in place. The program should run in O(1) space complexit
  34) Given a Cirular Linked List split it into two halves circular lists. If there are odd number of nodes in the given circular linked list then out of the resulting two halved lists, first list should have one node more than the second list. The resultant lists should also be circular lists and not linear lists.
 
  35)
+
+
+
+
+ 40) Given a doubly linked list and a position. The task is to delete a node from given position in a doubly linked list.
+
+41) Reverse a DLL
+
+42) Insert in Sorted way in a Sorted DLL
