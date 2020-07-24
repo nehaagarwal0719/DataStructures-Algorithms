@@ -73,10 +73,17 @@ You should try to do it in place. The program should run in O(1) space complexit
 
  34) Given a Cirular Linked List split it into two halves circular lists. If there are odd number of nodes in the given circular linked list then out of the resulting two halved lists, first list should have one node more than the second list. The resultant lists should also be circular lists and not linear lists.
 
- 35)
+ 35) Intersection of two sorted Linked lists
 
+35 b) Intersection of Two Linked Lists
 
+36) Arrange the vowels and consonants
 
+37) Decimal Equivalent of Binary Linked List
+
+38) multiply 2 lists
+
+39) Compare two linked lists 
 
  40) Given a doubly linked list and a position. The task is to delete a node from given position in a doubly linked list.
 
@@ -92,4 +99,17 @@ You should try to do it in place. The program should run in O(1) space complexit
 
 ### 46) LRU CACHE
 
-47) merge sort on dll
+47) merge sort on dll.
+
+48) Move all zeros to the front of the linked list
+
+49) Multiply two linked lists
+
+50) Delete N nodes after M nodes of a linked list
+
+51) Remove every k'th node
+
+### 52) Find n/k th node in Linked list  (when we use ceil it dosen't work)
+
+53) Given a singly linked list and a number K, you are required to complete the function modularNode() which returns the modular node of the linked list.
+A modular node is the last node of the linked list whose Index is divisible by the number K, i.e. i%k==0.

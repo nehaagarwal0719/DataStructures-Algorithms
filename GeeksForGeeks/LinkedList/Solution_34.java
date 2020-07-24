@@ -1,4 +1,6 @@
- // Function  to split a circular LinkedList
+class gfg
+{
+        // Function  to split a circular LinkedList
 	    void splitList(circular_LinkedList list)
         {
              // Your code here
@@ -32,3 +34,4 @@
         /* Make first half circular */
         slow_ptr.next = list.head; 
 	 }
+}

@@ -9,3 +9,7 @@
 5) mother vertex in a graph
 
 6) Detect cycle in a directed graph
+
+7) Topological sort
+
+8) Adjacency list by from starting entering all the edges

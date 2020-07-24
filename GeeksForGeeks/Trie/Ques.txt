@@ -6,3 +6,8 @@
 3) Given a binary matrix your task is to complete the function printMat which prints all unique rows of the given matrix. The function takes three arguments the first argument is a matrix M and the next two arguments are row and col denoting the rows and columns of the matrix.
 
 ///CAN ALSO BE DONE SIMPLY USING HASHSET WITH BETTER SPACE COMPLEXITY
+
+4) Phone directory 
+  Given a list of contacts which exist in a phone directory and a query string str. The task is to implement search query for the phone directory. Run a search query for each prefix p of the query string str(i.e from  index 1 to str length) that prints all the distinct recommended contacts which have the same prefix as our query (p) in lexicographical order. Please refer the explanation part for better understanding.
+
+NOTE: If there is no match between query and contacts , print "0".
