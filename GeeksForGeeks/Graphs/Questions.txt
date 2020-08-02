@@ -13,3 +13,7 @@
 7) Topological sort
 
 8) Adjacency list by from starting entering all the edges
+
+9) find the no of islands
+
+10) Unit Area of largest region of 1's

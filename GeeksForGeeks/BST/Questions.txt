@@ -52,6 +52,7 @@
 19) kth smallest element in BST ( for both these ques ans will not come if you take these global variables as func params)
 
 20) Lowest common ancestor in bst
+20A) pth common ancestor in BST
 
 21) min differece node/ Find the closest element in BST
 

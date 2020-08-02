@@ -50,3 +50,5 @@ Output:
 #### 18) huffman decoding
 
 19) merge k sorted arrays
+
+20) Heap Sort 

@@ -25,8 +25,6 @@ class TopologicalSort {
         visited[v] = true;  
         Integer i;  
     
-        // Recur for all the vertices adjacent  
-        // to thisvertex  
         Iterator<Integer> it = adj.get(v).iterator();  
         while (it.hasNext())  
         {  
@@ -35,8 +33,6 @@ class TopologicalSort {
                 topologicalSortUtil(i, visited, stack,adj);  
         }  
     
-        // Push current vertex to stack  
-// which stores result  
-        stack.push(new Integer(v));  
+        stack.push(v);  
     }  
 }

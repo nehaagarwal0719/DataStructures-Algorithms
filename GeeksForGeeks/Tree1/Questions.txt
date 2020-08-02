@@ -63,3 +63,24 @@
 30) Check if Tree is IsomorphicYou don't need to read input or print anything. Your task is to complete the function isIsomorphic() that takes the root nodes of both the Binary Trees as its input and returns True if the two trees are isomorphic. Else, it returns False.
 
 31) Given a Binary Tree of size N. Find the sum of all the leaf nodes that are left child of their parent of the given binary tree.
+
+
+## 32)Level of a Node in Binary Tree ( see that extra line before adding null)
+
+33) level with max no of nodes
+
+34) Maximum Width of Tree
+
+35) Print all nodes that don't have sibling
+
+36) Sum of Leaf Nodes at Min Level
+
+37)Leaf at same level
+
+##38) connect nodes at same level (check the better sol also)
+
+39) Root to leaf path sum
+
+40) Ancestors in Binary Tree
+
+41) lowest common ancestor in binary tree
