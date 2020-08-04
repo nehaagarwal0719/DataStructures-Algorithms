@@ -84,3 +84,13 @@
 40) Ancestors in Binary Tree
 
 41) lowest common ancestor in binary tree
+
+42) kth ancestor of binary tree
+
+43) ZigZag Tree Traversal/ spiral tree traversal
+
+ ## 44) Binary Tree to DLL
+
+ 45) Given a simple expression tree, which is also a full binary tree consisting of basic binary operators i.e., + , – ,* and / and some integers, Your task is to evaluate the expression tree.
+
+ 46) convert ternary expression into binary tree

@@ -1,4 +1,4 @@
- boolean isBST(Node root)
+    boolean isBST(Node root)
         {
             return BST(root, Integer.MIN_VALUE,Integer.MAX_VALUE);
         }

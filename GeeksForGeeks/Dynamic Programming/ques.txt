@@ -12,7 +12,7 @@
  6) Given an array, the task is to divide it into two sets S1 and S2 such that the absolute difference between their sums is minimum. 
 
  ##### 6a)  Target sum (very imp)
-6b) Stickler the thief wants to loot money from a society having n houses in a single line. He is a weird person and follows a certain rule when looting the houses. According to the rule, he will never loot two consecutive houses. At the same time, he wants to maximize the amount he loots. The thief knows which house has what amount of money but is unable to come up with an optimal looting strategy. He asks for your help to find the maximum money he can get if he strictly follows the rule. Each house has a[i] amount of money present in 
+6b) Stickler the thief wants to loot money from a society having n houses in a single line. He is a weird person and follows a certain rule when looting the houses. According to the rule, he will never loot two consecutive houses. At the same time, he wants to maximize the amount he loots. The thief knows which house has what amount of money but is unable to come up with an optimal looting strategy. He asks for your help to find the maximum money he can get if he strictly follows the rule. Each house has a[i] amount of money present in  
 
  7) Unbounded knapsack
 
@@ -64,7 +64,7 @@ Note: The order of characters in the string should be maintained.
 
 22) Find number of times a string occurs as a subsequence
 
-
+23) Nth catalan number
 
 
 

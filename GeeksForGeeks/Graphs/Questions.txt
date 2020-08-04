@@ -17,3 +17,7 @@
 9) find the no of islands
 
 10) Unit Area of largest region of 1's
+
+11) Floyd Warshall
+
+12) bellman ford / detect -ve wt cycle

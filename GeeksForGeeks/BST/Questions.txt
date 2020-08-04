@@ -16,8 +16,6 @@
 7) Count BST nodes that lie in a given range
 
 
-
-
 8) Sorted array to BST
 
 9) Normal BST to Balanced BST
@@ -25,9 +23,6 @@
 
 
 10) Binary Tree to BST  
-
-
-
 
 
 11) Inorder succesor of a BST
@@ -43,7 +38,7 @@
 
 ##15)Root to Leaf Paths 
 
-## 716) Find inorder successor and inorder predecessor
+## 16) Find inorder successor and inorder predecessor
 
 17) construct BST from prerder traversal
 
@@ -58,12 +53,15 @@
 
 22) add all node values greater than k
 
+##23) Merge two BST 's
+
+##24) Given an array arr of size n, write a program that prints 1 if given array can represent preorder traversal of a BST, else prints 0.
+
+### 25) 
+Two of the nodes of a Binary Search Tree (BST) are swapped. Fix (or correct) the BST by swapping them back. Do not change the structure of the tree.
 
 
-
-
-
-
+26) Given an integer N, how many structurally unique binary search trees are there that store values 1...N?
 
 
 51) INSERTION IN AVL TREE

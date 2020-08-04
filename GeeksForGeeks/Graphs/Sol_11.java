@@ -1,5 +1,6 @@
 
-
+The Floyd Warshall Algorithm is for solving the All Pairs Shortest Path problem. 
+The problem is to find shortest distances between every pair of vertices in a given edge weighted directed Graph.
 
 //m1 - using dijikstra algo for each vertex (o(n3))
 
@@ -22,11 +23,11 @@ class GFG
 	       
 	       for (i = 0; i < V; i++) 
             for (j = 0; j < V; j++) 
-                m[i][j] = sc.nextInt(); 
+                m[i][j] = sc.nextInt();   //entered adjacency matric
            
            for (i = 0; i < V; i++) 
             for (j = 0; j < V; j++) 
-                dist[i][j] = m[i][j];     
+                dist[i][j] = m[i][j];     //copied that
                 
                 
              for (k = 0; k < V; k++) 

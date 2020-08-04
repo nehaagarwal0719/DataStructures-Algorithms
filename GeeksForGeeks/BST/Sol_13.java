@@ -1,12 +1,11 @@
 class BST
 {
-    
 	
 	public static ArrayList<Integer> printCommon(Node root1,Node root2)
     {
-         ArrayList<Integer> al = new ArrayList<>();
-	     Stack<Integer> s1= new Stack<Integer>();
-	     Stack<Integer> s2= new Stack<Integer>();
+        ArrayList<Integer> al = new ArrayList<>();
+	      Stack<Integer> s1= new Stack<Integer>();
+	      Stack<Integer> s2= new Stack<Integer>();
         printInorder(root1,s1);
         printInorder(root2,s2);
 
